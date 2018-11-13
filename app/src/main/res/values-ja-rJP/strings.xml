@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab3_2Resourses</string>
+    <string name="show">ショー</string>
+    <string name="message">こんにちは世界</string>
+    <string name="greeting">お元気ですか?</string>
+</resources>
